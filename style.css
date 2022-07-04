@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+.principal{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.conteudo img{
+    padding: 3px;
+    border-radius: 50%;
+    border: solid 5px rgb(0, 0, 255);
+    max-width:150px;
+    max-height:100px;
+
+}
+
+.links a{
+    color: #ffffff;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+a{
+    background: rgb(0, 0, 255);
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 70px 10px 70px;
+    border-radius: 4px;
+    display: inline-block;    
+    
+}
+.links li{
+    list-style: none;
+}
