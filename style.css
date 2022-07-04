@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color: #b0c5ff;
+    background-color: #b9caffb6;
 }
 .principal {
     padding-top: 100px;
@@ -64,6 +64,11 @@ h1, p {
     border-radius: 4px;
     display: inline-block;
     
+}
+
+a:hover{
+    color: black;
+    box-shadow: 3px 5px 5px black;
 }
 
 li{
